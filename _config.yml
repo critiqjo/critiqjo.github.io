@@ -1,0 +1,12 @@
+# Site settings
+title: Let's uncomplicate!
+#email: your-email@domain.com
+description: >
+    I intend to write about stuff I learnt, which felt very interesting,
+    but could be time-consuming if left in the wild.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://critiqjo.github.io" # the base hostname & protocol for your site
+github_username: critiqjo
+
+# Build settings
+markdown: kramdown
